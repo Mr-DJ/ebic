@@ -1,0 +1,2 @@
+# EBIC
+Plagiarism Detection Tool
