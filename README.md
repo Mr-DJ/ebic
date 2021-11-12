@@ -1,5 +1,5 @@
 # EBIC
 Plagiarism Detection Tool
 # Main
-this is a website
-Thank you
+This is a website to check if a text file is plagiarised or not.
+
