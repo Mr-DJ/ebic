@@ -2,7 +2,7 @@ import { Meta } from '../layout/Meta';
 import { Main } from '../templates/Main';
 
 const About = () => (
-  <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
+  <Main meta={<Meta title="About" description="Project Summary" />}>
     <h1 className="text-lg font-bold">Main</h1>
     <p>
       This project is a program that checks similarities between any 2 blocks of text.
