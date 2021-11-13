@@ -40,7 +40,7 @@ const Main = (props: IMainProps) => (
             <li className="mr-6">
               <a
                 className="text-gray-700 border-none hover:text-gray-900"
-                href="https://github.com/"
+                href="https://github.com/Mr-DJ/ebic"
               >
                 GitHub
               </a>

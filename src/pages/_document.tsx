@@ -8,6 +8,8 @@ class MyDocument extends Document {
     return (
       <Html lang={AppConfig.locale}>
         <Head />
+        <script type="text/javascript" src="../utils/brython.js"></script>
+        <script type="text/javascript" src="../utils/brython_modules.js"></script>  
         <body>
           <Main />
           <NextScript />

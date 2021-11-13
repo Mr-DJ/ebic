@@ -17,7 +17,7 @@ class Form extends React.Component<{}, { value: string }> {
     textArray.push(this.state.value.toString);
     count++;
     if(count == 2) {
-      //executeScript(plagueScriptPath);
+      //executeScript();
     }
   }
 
